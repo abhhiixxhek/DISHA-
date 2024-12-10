@@ -57,11 +57,3 @@ Welcome to the Disha Chatbot GitHub repository! This project is an innovative so
 - Integrate additional evaluation metrics to improve accuracy.
 
 ---
-
-## **Contributors**
-- **Gyanbardhan**
-- **Lakshit Upreti**
-
----
-
-Feel free to fork, contribute, and enhance Disha for broader applications!
